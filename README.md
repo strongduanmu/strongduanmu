@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=strongduanmu&show_icons=true&theme=gruvbox&locale=en&layout=compact&exclude_repo=strongduanmu.github.io" alt="strongduanmu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strongduanmu&show_icons=true&theme=gruvbox&locale=en" alt="strongduanmu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=strongduanmu&show_icons=true&theme=gruvbox&locale=en" alt="strongduanmu" /></p>

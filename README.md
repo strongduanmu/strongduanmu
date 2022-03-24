@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strongduanmu&label=Profile%20views&color=0e75b6&style=flat" alt="strongduanmu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strongduanmu" alt="strongduanmu" /></a> </p>
-
 - 🔭 I’m currently working on [Apache ShardingSphere](https://github.com/apache/shardingsphere)
 
 - 📝 I regularly write articles on [https://strongduanmu.com](https://strongduanmu.com)
